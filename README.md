@@ -45,7 +45,5 @@
 <h2 id="contributing">Contributing</h2>
 <p>Contributions are welcome! Feel free to fork the repository, make changes, and submit a pull request. All contributions should align with the learning goals of this repository.</p>
 
-<h2 id="license">License</h2>
-<p>This project is licensed under the MIT License.</p>
 </body>
 </html>
