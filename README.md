@@ -33,13 +33,13 @@
 <h2 id="exercises-overview">Exercises Overview</h2>
 <p>Here is a brief description of the key exercises included:</p>
 <ul>
-    <li><a href="2D_array/2D_array.c">2D Array</a>: Demonstrates multidimensional array usage.</li>
-    <li><a href="Calculator/Calculator.c">Calculator</a>: Implements a basic calculator with addition, subtraction, multiplication, and division functions.</li>
-    <li><a href="average_of_array/average_of_array.c">Average of Array</a>: Calculates the average of elements in an array.</li>
-    <li><a href="even_or_odd_checker/even_or_odd_checker.c">Even or Odd Checker</a>: Checks whether a given number is even or odd.</li>
-    <li><a href="matrix_sum/matrix_sum.c">Matrix Sum</a>: Adds two matrices.</li>
-    <li><a href="swap_using_pointers/swap_using_pointers.c">Swap Using Pointers</a>: Swaps two numbers using pointers.</li>
-    <li><a href="string_manipulation/string_manipulation.c">String Manipulation</a>: Basic string operations like concatenation, comparison, and length.</li>
+    <li><a href="2D_array.c">2D Array</a>: Demonstrates multidimensional array usage.</li>
+    <li><a href="Calculator.c">Calculator</a>: Implements a basic calculator with addition, subtraction, multiplication, and division functions.</li>
+    <li><a href="average_of_array.c">Average of Array</a>: Calculates the average of elements in an array.</li>
+    <li><a href="even_or_odd_checker.c">Even or Odd Checker</a>: Checks whether a given number is even or odd.</li>
+    <li><a href="matrix_sum.c">Matrix Sum</a>: Adds two matrices.</li>
+    <li><a href="swap_using_pointers.c">Swap Using Pointers</a>: Swaps two numbers using pointers.</li>
+    <li><a href="string_manipulation.c">String Manipulation</a>: Basic string operations like concatenation, comparison, and length.</li>
 </ul>
 
 <h2 id="contributing">Contributing</h2>
