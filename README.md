@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Learning C - README</title>
+
 </head>
 <body>
     <h1>Learning C</h1>
